@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="entity_name" table="x_98929_cargo_logs_cargologstable" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>entity_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>US Technology International Pvt Ltd</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologstable</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-04 13:06:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb3eeb02db717300f598d426ca961965</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-04 13:17:25</sys_updated_on>
+            <value>UST10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>entity_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UST Global Technology Services India Pvt Ltd</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologstable</name>
+            <sequence>20</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-04 13:06:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b34e6f02db717300f598d426ca96199c</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-04 13:17:31</sys_updated_on>
+            <value>UST20</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>entity_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>US Technology International Pvt Ltd</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologstable</name>
+            <sequence>30</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-04 13:06:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a5eeb02db717300f598d426ca961966</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-04 13:17:36</sys_updated_on>
+            <value>UST30</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>entity_name</element>
+            <name>x_98929_cargo_logs_cargologstable</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-04 13:06:13</sys_created_on>
+            <sys_id>674e2b02db717300f598d426ca96191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>entity_name</sys_name>
+            <sys_package display_value="Cargo Logs" source="x_98929_cargo_logs">aeb91206db7d3300f598d426ca961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cargo Logs">aeb91206db7d3300f598d426ca961971</sys_scope>
+            <sys_update_name>sys_choice_x_98929_cargo_logs_cargologstable_entity_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-04 13:06:13</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

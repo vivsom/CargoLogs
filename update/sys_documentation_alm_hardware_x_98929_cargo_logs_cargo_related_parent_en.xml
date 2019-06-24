@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_98929_cargo_logs_cargo_related_parent" label="Cargo Related Parent" language="en" table="alm_hardware">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_98929_cargo_logs_cargo_related_parent</element>
+            <help/>
+            <hint/>
+            <label>Cargo Related Parent</label>
+            <language>en</language>
+            <name>alm_hardware</name>
+            <plural>Cargo Related Parents</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 10:35:20</sys_created_on>
+            <sys_id>d512a941db423300f598d426ca961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Cargo Related Parent</sys_name>
+            <sys_package display_value="Cargo Logs" source="x_98929_cargo_logs">aeb91206db7d3300f598d426ca961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cargo Logs">aeb91206db7d3300f598d426ca961971</sys_scope>
+            <sys_update_name>sys_documentation_alm_hardware_x_98929_cargo_logs_cargo_related_parent_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 10:35:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

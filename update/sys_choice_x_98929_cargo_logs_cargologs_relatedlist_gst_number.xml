@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="gst_number" table="x_98929_cargo_logs_cargologs_relatedlist" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gst_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>29AAACU5628B1ZG</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:02:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86798dbedb313300f598d426ca96194e</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:04:24</sys_updated_on>
+            <value>GST1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gst_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>32AAACU5628B1ZT</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sequence>20</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:02:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4da94dfadb313300f598d426ca96193a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:04:31</sys_updated_on>
+            <value>GSR2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gst_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>32AAACU5628B2ZS</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sequence>30</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:02:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>33a949bedb313300f598d426ca961943</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:04:34</sys_updated_on>
+            <value>GST3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gst_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>32AABCU1169Q1Z1</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sequence>40</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:02:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4cc90dfadb313300f598d426ca96194e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:04:38</sys_updated_on>
+            <value>GST4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gst_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>32AABCU1636Q1Z5</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sequence>50</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:03:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dec98dbedb313300f598d426ca961909</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:04:40</sys_updated_on>
+            <value>GST5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gst_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>33AAACU5628B1ZR</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sequence>60</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:03:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>42d9453edb313300f598d426ca961906</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:04:44</sys_updated_on>
+            <value>GST6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gst_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>36AAACU5628B1ZL</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sequence>70</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:03:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90e949bedb313300f598d426ca961911</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:04:50</sys_updated_on>
+            <value>GST7</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>gst_number</element>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:02:13</sys_created_on>
+            <sys_id>cda9013edb313300f598d426ca9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>gst_number</sys_name>
+            <sys_package display_value="Cargo Logs" source="x_98929_cargo_logs">aeb91206db7d3300f598d426ca961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cargo Logs">aeb91206db7d3300f598d426ca961971</sys_scope>
+            <sys_update_name>sys_choice_x_98929_cargo_logs_cargologs_relatedlist_gst_number</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:02:13</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

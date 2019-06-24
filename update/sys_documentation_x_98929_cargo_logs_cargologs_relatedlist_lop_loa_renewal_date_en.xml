@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="lop_loa_renewal_date" label="LOP/LOA Date Of Renewal" language="en" table="x_98929_cargo_logs_cargologs_relatedlist">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>lop_loa_renewal_date</element>
+            <help/>
+            <hint/>
+            <label>LOP/LOA Date Of Renewal</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <plural>LOP/LOA Date Of Renewals</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:59:25</sys_created_on>
+            <sys_id>f6b6d5f6db713300f598d426ca961988</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>LOP/LOA Date Of Renewal</sys_name>
+            <sys_package display_value="Cargo Logs" source="x_98929_cargo_logs">aeb91206db7d3300f598d426ca961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cargo Logs">aeb91206db7d3300f598d426ca961971</sys_scope>
+            <sys_update_name>sys_documentation_x_98929_cargo_logs_cargologs_relatedlist_lop_loa_renewal_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:59:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

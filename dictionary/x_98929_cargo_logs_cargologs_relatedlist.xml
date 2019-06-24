@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="CargoLogs-RelatedList" max_length="40" name="x_98929_cargo_logs_cargologs_relatedlist" type="collection">
+        <element label="Bill Of Entry Date" max_length="40" name="bill_of_entry_date" type="glide_date"/>
+        <element label="Bill Of Entry Number" max_length="40" name="bill_of_entry_number" type="integer"/>
+        <element label="CG balance Eligibility" max_length="40" name="cg_balance_eligibility" type="float"/>
+        <element label="CG Limit" max_length="40" name="cg_limit" type="float"/>
+        <element choice="1" label="Country Of Origin" max_length="32" name="country_of_origin" reference="core_country" type="reference">
+            <choice/>
+        </element>
+        <element label="Description Of Item" max_length="400" name="description_of_item" type="string_full_utf8"/>
+        <element choice="1" label="GST Number" mandatory="true" max_length="32" name="gst_number" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="29AAACU5628B1ZG" sequence="10" value="GST1"/>
+                <element inactive_on_update="false" label="32AAACU5628B1ZT" sequence="20" value="GSR2"/>
+                <element inactive_on_update="false" label="32AAACU5628B2ZS" sequence="30" value="GST3"/>
+                <element inactive_on_update="false" label="32AABCU1169Q1Z1" sequence="40" value="GST4"/>
+                <element inactive_on_update="false" label="32AABCU1636Q1Z5" sequence="50" value="GST5"/>
+                <element inactive_on_update="false" label="33AAACU5628B1ZR" sequence="60" value="GST6"/>
+                <element inactive_on_update="false" label="36AAACU5628B1ZL" sequence="70" value="GST7"/>
+            </choice>
+        </element>
+        <element choice="1" label="IEC Code" max_length="32" name="iec_code" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1010007416" sequence="10" value="IEC10"/>
+                <element inactive_on_update="false" label="3910000070" sequence="20" value="IEC20"/>
+                <element inactive_on_update="false" label="5302000270" sequence="30" value="IEC30"/>
+            </choice>
+        </element>
+        <element label="Import Available So Far" max_length="40" name="import_available_so_far" type="float"/>
+        <element label="Import Certificate  Date" max_length="40" name="import_certificate_date" type="glide_date"/>
+        <element label="Import Certificate  Number" max_length="255" name="import_certificate_number" type="string_full_utf8"/>
+        <element label="Invoice Date" max_length="40" name="invoice_date" type="glide_date"/>
+        <element label="Invoice Number" max_length="255" name="invoice_number" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="LOP/LOA Date" max_length="40" name="lop_loa_date" type="glide_date"/>
+        <element label="LOP/LOA Number" max_length="60" name="lop_loa_number" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="LOP/LOA Date Of Renewal" max_length="40" name="lop_loa_renewal_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="LOP/LOA Validity" max_length="40" name="lop_loa_validity_date" type="glide_date"/>
+        <element label="Master Field" mandatory="true" max_length="32" name="mater_field" read_only="true" reference="x_98929_cargo_logs_cargologstable" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" mandatory="true" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="PBWH Licence Date" max_length="40" name="pbwh_licence_date" type="glide_date"/>
+        <element label="PBWH Licence Number" max_length="255" name="pbwh_licence_number" type="string_full_utf8"/>
+        <element label="Procurement Certificate Date" max_length="40" name="procurement_certificate_date" type="glide_date"/>
+        <element label="Procurement Certificate  No./ Annexure III" max_length="255" name="procurement_certificate_no_annexure_iii" type="string_full_utf8"/>
+        <element label="Purchase Order Number" max_length="255" name="purchase_order_number" type="string_full_utf8"/>
+        <element label="Source of Supply" max_length="200" name="source_of_supply" type="string_full_utf8"/>
+        <element label="WRG Date" max_length="40" name="wrg_date" type="glide_date"/>
+        <element label="WRG Sl No" max_length="40" name="wrg_sl_no" type="integer"/>
+        <index name="index">
+            <element name="lop_loa_number"/>
+        </index>
+        <index name="index2">
+            <element name="mater_field"/>
+        </index>
+        <index name="index3">
+            <element name="country_of_origin"/>
+        </index>
+        <index name="index4">
+            <element name="gst_number"/>
+        </index>
+        <index name="index5">
+            <element name="iec_code"/>
+        </index>
+    </element>
+</database>

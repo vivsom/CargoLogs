@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="iec_code" table="x_98929_cargo_logs_cargologs_relatedlist" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>iec_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1010007416</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:10:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e6bc132db713300f598d426ca9619e2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:10:53</sys_updated_on>
+            <value>IEC10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>iec_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3910000070</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sequence>20</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:10:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>547b49fedb313300f598d426ca9619fd</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:10:58</sys_updated_on>
+            <value>IEC20</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>iec_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5302000270</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sequence>30</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:10:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>767b8dfedb313300f598d426ca96195d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:11:01</sys_updated_on>
+            <value>IEC30</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>iec_code</element>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:10:04</sys_created_on>
+            <sys_id>407b0532db713300f598d426ca96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>iec_code</sys_name>
+            <sys_package display_value="Cargo Logs" source="x_98929_cargo_logs">aeb91206db7d3300f598d426ca961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cargo Logs">aeb91206db7d3300f598d426ca961971</sys_scope>
+            <sys_update_name>sys_choice_x_98929_cargo_logs_cargologs_relatedlist_iec_code</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:10:04</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

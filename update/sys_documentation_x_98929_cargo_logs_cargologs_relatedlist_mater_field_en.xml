@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="mater_field" label="Master Field" language="en" table="x_98929_cargo_logs_cargologs_relatedlist">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>mater_field</element>
+            <help/>
+            <hint/>
+            <label>Master Field</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <plural>Master Fields</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-07 09:52:18</sys_created_on>
+            <sys_id>a8be964fdb7d3300f598d426ca96191d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Master Field</sys_name>
+            <sys_package display_value="Cargo Logs" source="x_98929_cargo_logs">aeb91206db7d3300f598d426ca961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cargo Logs">aeb91206db7d3300f598d426ca961971</sys_scope>
+            <sys_update_name>sys_documentation_x_98929_cargo_logs_cargologs_relatedlist_mater_field_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-10 10:36:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

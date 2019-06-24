@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="lop_loa_number" table="x_98929_cargo_logs_cargologs_relatedlist" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>lop_loa_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EIG/US Technology/GEN/31584</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:49:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e2649576db713300f598d426ca96190b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:51:50</sys_updated_on>
+            <value>L10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>lop_loa_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>F No.KL:05:06:Techno(II):2C/258</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sequence>20</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:49:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>37649d76db713300f598d426ca9619bb</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:51:57</sys_updated_on>
+            <value>L20</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>lop_loa_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>F No.KL:05:06:Techno(II):2D/926</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sequence>30</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:49:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e7419f2db713300f598d426ca96190b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:52:00</sys_updated_on>
+            <value>L30</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>lop_loa_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>F No.KL:05:06:Techno(II):2E/256</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sequence>40</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:49:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d884dd76db713300f598d426ca961931</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:52:03</sys_updated_on>
+            <value>L40</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>lop_loa_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>F No.KL:05:06:Techno(II):2E/257</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sequence>50</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:49:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82849d76db713300f598d426ca9619bc</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:52:06</sys_updated_on>
+            <value>L50</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>lop_loa_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KL:01:06:INFOPARK(I):2DF</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sequence>60</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:50:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>009491b2db713300f598d426ca9619ad</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:52:10</sys_updated_on>
+            <value>L60</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>lop_loa_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No.F.2/30/2005-EPZ</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sequence>70</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:50:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de949d76db713300f598d426ca9619b7</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:52:15</sys_updated_on>
+            <value>L70</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>lop_loa_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>STP:PER 62(1999)/EOP/65/99</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sequence>80</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:50:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dca4dd76db713300f598d426ca9619b8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:52:25</sys_updated_on>
+            <value>L80</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>lop_loa_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>STPH/ESG/2018-19/2062/5326</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sequence>90</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:50:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ea49d76db713300f598d426ca9619b8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:52:28</sys_updated_on>
+            <value>L90</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>lop_loa_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>STPIC/IMSC/2004-05/1486</label>
+            <language>en</language>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sequence>100</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:50:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8b49d76db713300f598d426ca9619b9</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:52:34</sys_updated_on>
+            <value>100</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>lop_loa_number</element>
+            <name>x_98929_cargo_logs_cargologs_relatedlist</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 09:49:22</sys_created_on>
+            <sys_id>63645172db713300f598d426ca961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>lop_loa_number</sys_name>
+            <sys_package display_value="Cargo Logs" source="x_98929_cargo_logs">aeb91206db7d3300f598d426ca961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cargo Logs">aeb91206db7d3300f598d426ca961971</sys_scope>
+            <sys_update_name>sys_choice_x_98929_cargo_logs_cargologs_relatedlist_lop_loa_number</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 09:49:22</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
